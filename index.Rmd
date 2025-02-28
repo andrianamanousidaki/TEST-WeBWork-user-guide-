@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "STT MSU WeBWork Guide"
+author: "Andriana Manousidaki and Camille Fairbourn"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
